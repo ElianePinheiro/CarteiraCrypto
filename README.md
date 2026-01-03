@@ -1,2 +1,2 @@
 # CarteiraCrypto
-Desafio Dio
+Desafio da formação introdutória à Blockchain (Dio)
